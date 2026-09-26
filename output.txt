@@ -1,1 +1,3 @@
 Some text
+
+Text added inside git
