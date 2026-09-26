@@ -1,3 +1,3 @@
 # first-test-repo
 
-This readme text was added inside github
+This Repo is for the exercises of Week 3. I am enjoying this module.
